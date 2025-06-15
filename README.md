@@ -20,3 +20,18 @@ Handle complaints/maintenance
 Auto-generate receipts
 
 UPI payment integration 
+
+⚙️ Tech Stack
+
+Frontend (Next.js):
+
+TailwindCSS – for styling
+
+MongoDB – to store tenant and rent data
+
+NextAuth.js – for auth
+
+Nodemailer / WhatsApp API – for reminders
+
+
+Target release:Dec 31st,2025
